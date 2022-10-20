@@ -11,7 +11,7 @@ And design Application GUI with Java Swing.
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=light)](https://skillicons.dev)  
 > **JAVA** : Swing, Spigot, MCP, Mixin, JDA  
-> **HTML & CSS**: Basic Web Page :)
+> **HTML & CSS**: While Learning :)
 
 ## Using Tools
 
@@ -19,4 +19,4 @@ And design Application GUI with Java Swing.
 
 ## Social Media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lefiy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/leaf_client)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/c/Lefiy_MC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/eJtRwnhxdY)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/leaf_client)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/c/Lefiy_MC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/eJtRwnhxdY)
