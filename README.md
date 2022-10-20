@@ -1,5 +1,5 @@
-# 🍂 Leaf Client Owner & Developer
-![Leaf Client Owner & Developer](https://pbs.twimg.com/profile_banners/1300038511383293953/1649417199/1500x500)
+# Leaf Client Owner / Developer
+![Leaf Client Owner / Developer](https://pbs.twimg.com/profile_banners/1300038511383293953/1649417199/1500x500)
 
 ## About Me
 
@@ -17,8 +17,8 @@ And design Application GUI with Java Swing.
 
 [![Using Tools](https://skillicons.dev/icons?i=eclipse,git,maven,gradle,mongodb,mysql,bots&theme=light)](https://skillicons.dev)  
 > **Coding**: Eclipse, Maven, Gradle  
-> **Build Spigot**: Git or CMD  
-> **Database**: MongoDB, MySQL  
+> **Build Spigot**: Git or Cmd  
+> **DataBase**: MongoDB, MySQL  
 > **Discord Bot**: Developer Portal  
 
 ## Social Media
