@@ -9,7 +9,7 @@ And design Application GUI with Java Swing.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)  
 Skills: Java (Swing, Spigot, MCP, Mixin)
 
 ## Social Media
