@@ -10,7 +10,7 @@ And design Application GUI with Java Swing.
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=light)](https://skillicons.dev)  
-> **Java** : Swing, Spigot, MCP, Mixin  
+> **JAVA** : Swing, Spigot, MCP, Mixin  
 > **HTML & CSS**: Basic Web Page :)
 
 ## Social Media
