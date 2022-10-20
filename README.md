@@ -10,12 +10,12 @@ And design Application GUI with Java Swing.
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=light)](https://skillicons.dev)  
-> **JAVA** : Swing, Spigot, MCP, Mixin  
+> **JAVA** : Swing, Spigot, MCP, Mixin, JDA  
 > **HTML & CSS**: Basic Web Page :)
 
 ## Using Tools
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse&theme=light)](https://skillicons.dev)  
+[![Using Tools](https://skillicons.dev/icons?i=eclipse,git,maven,gradle,mongodb,mysql,bots&theme=light)](https://skillicons.dev)
 
 ## Social Media
 
