@@ -3,9 +3,9 @@
 
 ## About Me
 
-I am the owner of MC LEAF COMMUNITY (JP).  
+Owner / Developer of MC LEAF COMMUNITY (JP).  
 Develop PvP Client and Spigot Plugin in Minecraft.  
-And design Application GUI with Java Swing.  
+And Design Application GUI with Java Swing.  
 
 ## My Skills
 
