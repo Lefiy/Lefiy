@@ -1,5 +1,5 @@
 # Hi, I am Lefiy :)
-![Leaf Client Owner / Developer](https://pbs.twimg.com/profile_banners/1300038511383293953/1649417199/1500x500)
+![Leaf Client Owner / Developer](Leaf.png)
 
 ## About Me
 
