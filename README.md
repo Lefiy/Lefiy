@@ -15,9 +15,8 @@ And Design Application GUI with Java Swing.
 
 ## Using Tools
 
-[![Using Tools](https://skillicons.dev/icons?i=eclipse,git,maven,gradle,mongodb,mysql,bots&theme=light)](https://skillicons.dev)  
+[![Using Tools](https://skillicons.dev/icons?i=eclipse,maven,gradle,mongodb,mysql,bots&theme=light)](https://skillicons.dev)  
 > **Coding**: Eclipse, Maven, Gradle  
-> **Build Spigot**: Git or Cmd  
 > **DataBase**: MongoDB, MySQL  
 > **Discord Bot**: Developer Portal  
 
