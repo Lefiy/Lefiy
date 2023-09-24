@@ -9,16 +9,14 @@ And Design Application GUI with Java Swing.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)  
 > **JAVA**: Swing, Spigot, MCP, Mixin, JDA  
-> **HTML & CSS**: While Learning :)
 
 ## Using Tools
 
-[![Using Tools](https://skillicons.dev/icons?i=eclipse,maven,gradle,mongodb,mysql,bots&theme=light)](https://skillicons.dev)  
+[![Using Tools](https://skillicons.dev/icons?i=eclipse,maven,gradle,mongodb,mysql&theme=light)](https://skillicons.dev)  
 > **Coding**: Eclipse, Maven, Gradle  
 > **DataBase**: MongoDB, MySQL  
-> **Discord Bot**: Developer Portal  
 
 ## Social Media
 
