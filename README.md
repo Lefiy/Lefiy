@@ -1,11 +1,10 @@
-# Hi, I am Lefiy :)
+# Hello! I am Lefiy.
 ![Leaf Client Owner / Developer](Leaf.png)
 
 ## About Me
 
 Owner / Developer of MC LEAF COMMUNITY (JP).  
-Develop PvP Client and Spigot Plugin in Minecraft.  
-And Design Application GUI with Java Swing.  
+I develop PvP Client and Spigot Plugin for Minecraft.  
 
 ## My Skills
 
